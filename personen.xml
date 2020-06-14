@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<personen>
+    <person id="1">
+        <name>Mustermann</name>
+        <vorname>Max</vorname>
+        <abteilung>Vertrieb</abteilung>
+        <postleitzahl>54321</postleitzahl>
+        <ort>Musterdorf</ort>
+    </person>
+    <person id="2">
+        <name>Müller</name>
+        <vorname>Petra</vorname>
+        <abteilung>Verwaltung</abteilung>
+        <postleitzahl>76543</postleitzahl>
+        <ort>Beispieldorf</ort>
+    </person>
+</personen>
